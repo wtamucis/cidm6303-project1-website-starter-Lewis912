@@ -2,11 +2,11 @@ In VS Code, press Ctrl+Shift+V to preview this README.md file or Cmd+Shift+V on 
 
 # CIDM6303-project-website 
 The instructions for this assignment can be found at   
-(https://docs.google.com/document/d/1t0HVdxquGlLDm93fHUsmnHKNRfpCyVy2lPanDvhqcwg/edit?usp=sharing)  
+([https://docs.google.com/document/d/1t0HVdxquGlLDm93fHUsmnHKNRfpCyVy2lPanDvhqcwg/edit?usp=sharing](https://docs.google.com/document/d/1_8pdG7UyryCE1qQ9P-fgnLWMNEyqin12/edit?usp=sharing&ouid=101740201289965027466&rtpof=true&sd=true))  
 index.html is ready for you to edit. Add additional files as needed. 
 
 ## How to view a webpage
-To preview a webpage, right click a file and choose Open in Live Server, assuming you have installed this recommended extension. 
+To preview a webpage, right-click a file and choose Open in Live Server, assuming you have installed this recommended extension. 
 
 ## Looking for images to use
 Public domain photos (https://www.publicdomainpictures.net/en/index.php)  
@@ -23,8 +23,8 @@ Use the terminal or command line to issue git commands.
   
 **Typically, configure your settings only once per computer**, unless you need to update your name or email address in the future or switch computers. Git saves this information on your computer. *Substitute your name and email address*. This information will be used to log who made which changes to the code.
 ```bash
- git config --global user.name "Sean Humpherys" 
- git config --global user.email shumpherys@wtamu.edu
+ git config --global user.name "Sample Student" 
+ git config --global user.email sstudent@wtamu.edu
 ```
 To ensure proper line endings:
 
